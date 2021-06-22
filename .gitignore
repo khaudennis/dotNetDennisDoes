@@ -1,6 +1,7 @@
-\dotNetDennisDoes\Client\bin\*
-\dotNetDennisDoes\Client\obj\*
-\dotNetDennisDoes\Server\bin\*
-\dotNetDennisDoes\Server\obj\*
-\dotNetDennisDoes\Shared\bin\*
-\dotNetDennisDoes\Shared\obj\*
+.vs
+bin
+obj
+/*/bin
+/*/obj
+/*/*/bin
+/*/*/obj
